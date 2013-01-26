@@ -1,0 +1,161 @@
+@import url(http://fonts.googleapis.com/css?family=Oxygen:400,700);
+@import url(http://fonts.googleapis.com/css?family=PT+Sans);
+@import url("hide.css");
+
+/* HEADER TITLE
+================================================== */
+#header {
+	font-family: 'Oxygen', Georgia, serif;
+	text-align: center;
+	margin-bottom: 2%;
+}
+#header a:visited, #header a:link, #header a {
+	color: black;
+	text-decoration: none;
+}
+#header h1 {
+	color: black;
+	line-height: 100%;
+	margin: 0;
+	padding: 0.1em;
+	font-size: 200%;
+}
+h1.name, h1.lastname {
+	text-transform: uppercase;
+}
+#header span {
+	letter-spacing: 0.2em;
+	font-size: 110%;
+}
+#header h1.name{
+	font-weight: 400;
+}
+#header h1.lastname{
+	font-weight: 700;
+}
+
+
+
+/* CONTENT
+================================================== */
+section {
+/*  margin: 10px 0;*/
+	margin: 0;
+}
+p{
+	margin: 1em 0;
+/*	text-align: justify;*/
+}
+section a:visited, section a {
+/*	color: #ffa84c;*/
+	color: #27279a;
+	text-decoration: none;
+}
+section a:hover{
+	text-decoration: underline;
+}
+h4{
+	font-size: 90%;
+	margin: 0.5em 0 -0.8em 0;
+}
+#Computing-skills p {
+	margin: 0 0 0 1em;
+}
+#Computing-skills h4{
+	margin: 0.7em 0 0 0;
+}
+
+/* SIDEBAR - WIDGET AREA
+================================================== */
+#widget-area{
+	font-family: 'PT Sans', sans-serif;
+	margin: 5% auto;
+	width: 80%;
+}
+#widget-area p{
+	width: 70%;
+	margin: 3% auto;
+	padding: 1% 2%;
+	background-color: black;
+	line-height: 2em;
+	text-align: center;
+}
+#widget-area a{
+	text-decoration: none;
+	color: white;
+}
+#widget-area p:hover, #widget-area p:hover a{
+	background-color: white;
+	color: black;
+}
+#widget-area a:hover{
+	padding: 0.5% 2%;
+	color: black;
+	border: 1pt solid black;
+}
+
+
+/* FOOTER
+================================================== */
+footer {
+  background: black;
+  min-height: 50px;
+  margin-top: 30px;
+  padding: 20px 0 10px 0;
+}
+footer h2 {
+  color: white;
+  display: block;
+  font-family: "Open Sans", sans-serif;
+  font-size: 20px;
+  line-height: 1.5;
+  font-weight: bold;
+  margin: 10px 0;
+}
+footer p,
+footer blockquote,
+footer article,
+footer section {
+  color: white;
+  font-family: "Open Sans", sans-serif;
+  font-size: 12px;
+/*  line-height: 1.5;*/
+line-height: 1;
+}
+footer a, footer p a {
+  color: white;
+  white-space: pre;
+  white-space: pre-wrap;
+  white-space: pre-line;
+  white-space: -pre-wrap;
+  white-space: -o-pre-wrap;
+  white-space: -moz-pre-wrap;
+  white-space: -hp-pre-wrap;
+  word-wrap: break-word;
+}
+footer a:hover {
+  color: #999999;
+}
+footer a:visited {
+  color: white;
+}
+
+/*  GRID LAYOUT  */
+.layoutGrid [class*="grid-"] p {
+	background: #EDEDED;
+	border: 1px solid #555;
+	font-size: 13px;
+	margin-bottom: 20px;
+	padding: 10px;
+}
+.layoutGrid p.noStyle {
+	background: none;
+	border: none;
+	padding: 0;
+}
+
+
+
+/* ================================================
+    Custom Media Queries
+================================================== */
