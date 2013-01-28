@@ -13,4 +13,4 @@ In the portfolio, I have used the next icon to the favicon.
 
 Licensing
 ---------
-Licensed under GPL <https://github.com/jhough10/centurion>. 
+Licensed under GPL <http://www.gnu.org/licenses/gpl.html>. 
