@@ -471,7 +471,7 @@
   clear: both;
   visibility: hidden;
   clear: both;
-  /* zoom: 1; */
+  /*zoom: 1;*/
 }
 * html .clearfix, * html
 .container {
@@ -549,7 +549,7 @@ ul.cCrumbs li:last-child:after {
   padding: 10px 22px;
   text-decoration: none;
   vertical-align: middle;
-  /* zoom */: 1;
+  /*zoom : 1;*/
   /* Button - Grey */
   /* Button - Blue */
   /* Button - Red */
