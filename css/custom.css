@@ -13,27 +13,25 @@
 	color: black;
 	text-decoration: none;
 }
-#header h1 {
+#header span.name, #header span.lastname {
 	color: black;
-	line-height: 100%;
-	margin: 0;
-	padding: 0.1em;
-	font-size: 200%;
+	font-size: 150%;
 }
-h1.name, h1.lastname {
+span.name, span.lastname {
 	text-transform: uppercase;
 }
-#header span {
-	letter-spacing: 0.2em;
-	font-size: 110%;
-}
-#header h1.name{
+#header span.name{
 	font-weight: 400;
 }
-#header h1.lastname{
+#header span.lastname{
 	font-weight: 700;
+	line-height: 140%;
 }
-
+#header span.portfolio {
+	letter-spacing: 0.2em;
+	font-size: 110%;
+	line-height: 140%;
+}
 
 
 /* CONTENT
@@ -154,6 +152,10 @@ footer a:visited {
 	padding: 0;
 }
 
+/* ----- custom ----- */
+#footer{
+	background-color: gray;
+}
 
 
 /* ================================================
