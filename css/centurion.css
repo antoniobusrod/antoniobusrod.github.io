@@ -311,7 +311,8 @@
   }
 }
 /* Mobile Grid Layout - 320px and 480px */
-@media screen and (min-width: 320px) and (max-width: 520px) {
+/* @media screen and (min-width: 320px) and (max-width: 520px) { */
+@media screen and (min-width: 1px) and (max-width: 520px) {
   #wrapper {
     margin-left: auto;
     margin-right: auto;
@@ -443,6 +444,11 @@
     padding: 10px 0;
     text-indent: 10px;
     width: 100%;
+    font-family: "Open Sans", sans-serif;
+  }
+  nav.mobile span.openMenu:hover {
+    cursor: pointer;
+    background-color: #ccc;
   }
 
   .hide-desktop {
