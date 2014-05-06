@@ -2,6 +2,11 @@
 @import url(http://fonts.googleapis.com/css?family=PT+Sans);
 @import url("hide.css");
 
+/* init */
+#experience, #education, #computing-skills, #research, #misc {
+  display: none;
+}
+
 /* HEADER TITLE
 ================================================== */
 #header {
