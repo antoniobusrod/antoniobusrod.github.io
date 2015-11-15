@@ -16,6 +16,7 @@ Links
 - [Twitter](https://twitter.com/antoniobusrod)
 - [Facebook](https://www.facebook.com/antoniobusrod)
 - [Keybase](https://keybase.io/antoniobusrod)
+- [snippets](https://github.com/antoniobusrod/antoniobusrod.github.io/blob/master/snippets.md)
 
 ---
 
