@@ -12,7 +12,6 @@ Links
 - [Email](mailto:antonio@busrod.net)
 - [Linkedin](https://es.linkedin.com/in/antoniobusrod)
 - [GitHub](https://github.com/antoniobusrod)
-- [dots GitHub](https://github.com/antoniodots)
 - [Twitter](https://twitter.com/antoniobusrod)
 - [Facebook](https://www.facebook.com/antoniobusrod)
 - [Keybase](https://keybase.io/antoniobusrod)
