@@ -9,7 +9,7 @@ Contact me by email to receive my CV in PDF format (with more information).
 
 Links
 -----
-- [Email](mailto:antonio@busrod.net)
+- [Email](mailto:antoniobusrod[at]gmail[dot]com)
 - [Linkedin](https://es.linkedin.com/in/antoniobusrod)
 - [GitHub](https://github.com/antoniobusrod)
 - [Twitter](https://twitter.com/antoniobusrod)
