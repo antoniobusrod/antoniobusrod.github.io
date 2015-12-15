@@ -4,6 +4,11 @@ Snippets
 [old snippets page](http://antonio.busrod.net/snippets-old.html)
 
 ---
+Bind mount
+```
+mount --bind /some/where /else/where
+```
+---
 
 Scan for every TCP and UDP open port:
 
