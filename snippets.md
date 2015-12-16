@@ -4,6 +4,14 @@ Snippets
 [old snippets page](http://antonio.busrod.net/snippets-old.html)
 
 ---
+View JSON file in chrome
+1. Open JSON file in a Chrome tab
+2. Open Developer Tools
+3. Execute in console
+```
+JSON.parse(document.body.getElementsByTagName('pre').item(0).textContent)
+```
+---
 Bind mount
 ```
 mount --bind /some/where /else/where
