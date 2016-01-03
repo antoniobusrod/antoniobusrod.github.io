@@ -4,6 +4,14 @@ Snippets
 [old snippets page](http://antonio.busrod.net/snippets-old.html)
 
 ---
+---
+[XDG Base Directory Specification](http://standards.freedesktop.org/basedir-spec/basedir-spec-latest.html)
+
+`$XDG_CACHE_HOME`, `~/.cache`
+
+Mac OS X, `~/Library/Caches`
+
+---
 View JSON file in chrome
 1. Open JSON file in a Chrome tab
 2. Open Developer Tools
