@@ -4,6 +4,12 @@ Snippets
 [old snippets page](http://antonio.busrod.net/snippets-old.html)
 
 ---
+write `.img` to SD card from Mac OS X, [more info](http://raspberrypi.stackexchange.com/questions/4144/writing-img-file-to-sd-card-from-a-mac)
+
+`sudo dd if=path_of_your_image.img of=/dev/rdiskn bs=1m`
+
+`/dev/rdisk?` [is much faster](http://superuser.com/questions/631592/why-is-dev-rdisk-about-20-times-faster-than-dev-disk-in-mac-os-x)
+
 ---
 `CTRL+z` suspends the most recent foreground process (the last process to interact with the tty)
 
