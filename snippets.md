@@ -5,6 +5,17 @@ Snippets
 
 ---
 ---
+`CTRL+z` suspends the most recent foreground process (the last process to interact with the tty)
+
+`fg` continues a stopped job by running it in the foreground
+
+`bg` resume a suspended program without bringing it to the foreground
+
+`nohup <command> &; disown` [background process ignoring NOHUP and SIGHUP](http://stackoverflow.com/a/29250064)
+
+[Jobs - Move Running Process to Background & Nohup](http://www.kossboss.com/linux---move-running-to-process-nohup)
+
+---
 [XDG Base Directory Specification](http://standards.freedesktop.org/basedir-spec/basedir-spec-latest.html)
 
 `$XDG_CACHE_HOME`, `~/.cache`
