@@ -4,6 +4,12 @@ Snippets
 [old snippets page](http://antonio.busrod.net/snippets-old.html)
 
 ---
+[set terminal name](http://superuser.com/a/633947) 
+```
+echo -en "\e]2;string\a" #-- Set window title to string
+```
+
+---
 write `.img` to SD card from Mac OS X, [more info](http://raspberrypi.stackexchange.com/questions/4144/writing-img-file-to-sd-card-from-a-mac)
 
 `sudo dd if=path_of_your_image.img of=/dev/rdiskn bs=1m`
