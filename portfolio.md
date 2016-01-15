@@ -13,7 +13,7 @@ Links
 - [Linkedin](https://es.linkedin.com/in/antoniobusrod)
 - [GitHub](https://github.com/antoniobusrod)
 - [Twitter](https://twitter.com/antoniobusrod)
-- [Facebook](https://www.facebook.com/antoniobusrod)
+- [Blog](https://antoniobusrodblog.wordpress.com)
 - [Keybase](https://keybase.io/antoniobusrod)
 - [snippets](https://github.com/antoniobusrod/antoniobusrod.github.io/blob/master/snippets.md)
 
