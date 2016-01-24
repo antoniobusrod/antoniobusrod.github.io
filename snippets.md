@@ -4,6 +4,11 @@ Snippets
 [old snippets page](http://antonio.busrod.net/snippets-old.html)
 
 ---
+`git checkout --orphan` Create a new orphan branch. The first commit made on
+this new branch will have no parents and it will be the root of a new history
+totally disconnected from all the other branches and commits.
+
+---
 [set terminal name](http://superuser.com/a/633947) 
 ```
 echo -en "\e]2;string\a" #-- Set window title to string
