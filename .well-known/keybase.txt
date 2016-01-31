@@ -1,0 +1,51 @@
+https://keybase.io/antoniobusrod
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://antonio.busrod.net
+  * I am antoniobusrod (https://keybase.io/antoniobusrod) on keybase.
+  * I have a public key ASAOJ-dc_ivkluV3Wkr1KfWHdgF3Yn_jLCQGkCzLJbRUEQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01200e27e75cfe2be496e5775a4af529f587760177627fe32c2406902ccb25b454110a",
+            "host": "keybase.io",
+            "kid": "01200e27e75cfe2be496e5775a4af529f587760177627fe32c2406902ccb25b454110a",
+            "uid": "973825a4207554cf39c299b24d1ff900",
+            "username": "antoniobusrod"
+        },
+        "service": {
+            "hostname": "antonio.busrod.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.9"
+    },
+    "ctime": 1454255379,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1454255212,
+        "hash": "5c2faf09996e17725719bb648f7f5cb4e065c810028920dd4d0d60ebd12157be8b2b67d427eb2cdebf4af867ad559a845548220ec540390af131089d8332fbfc",
+        "seqno": 358787
+    },
+    "prev": "3711c28692b14ace30db3a51448bfdd8a639a8b25aff35eceec89466c2349a68",
+    "seqno": 12,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgDifnXP4r5Jbld1pK9Sn1h3YBd2J/4ywkBpAsyyW0VBEKp3BheWxvYWTFAv57ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMGUyN2U3NWNmZTJiZTQ5NmU1Nzc1YTRhZjUyOWY1ODc3NjAxNzc2MjdmZTMyYzI0MDY5MDJjY2IyNWI0NTQxMTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMGUyN2U3NWNmZTJiZTQ5NmU1Nzc1YTRhZjUyOWY1ODc3NjAxNzc2MjdmZTMyYzI0MDY5MDJjY2IyNWI0NTQxMTBhIiwidWlkIjoiOTczODI1YTQyMDc1NTRjZjM5YzI5OWIyNGQxZmY5MDAiLCJ1c2VybmFtZSI6ImFudG9uaW9idXNyb2QifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImFudG9uaW8uYnVzcm9kLm5ldCIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuOSJ9LCJjdGltZSI6MTQ1NDI1NTM3OSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDU0MjU1MjEyLCJoYXNoIjoiNWMyZmFmMDk5OTZlMTc3MjU3MTliYjY0OGY3ZjVjYjRlMDY1YzgxMDAyODkyMGRkNGQwZDYwZWJkMTIxNTdiZThiMmI2N2Q0MjdlYjJjZGViZjRhZjg2N2FkNTU5YTg0NTU0ODIyMGVjNTQwMzkwYWYxMzEwODlkODMzMmZiZmMiLCJzZXFubyI6MzU4Nzg3fSwicHJldiI6IjM3MTFjMjg2OTJiMTRhY2UzMGRiM2E1MTQ0OGJmZGQ4YTYzOWE4YjI1YWZmMzVlY2VlYzg5NDY2YzIzNDlhNjgiLCJzZXFubyI6MTIsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAoYM930KCm7U/ayrBhbYRB1bsBLgLBcbkGvy7MihwWk0NaQEFWOPSiNvUY9XjPEJU69Y8kWZe1bCNGUj69OfqAqhzaWdfdHlwZSCjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/antoniobusrod
