@@ -6,5 +6,20 @@ body {
 }
 
 li {
-  margin: 2px 0;
+  margin: 4px 0;
+}
+ul.links {
+  list-style-type: none;
+  padding-left: 10px;
+}
+.links img {
+  max-width: 13px;
+  max-width: 13px;
+}
+.links span {
+  margin-left: 3px;
+}
+footer blockquote {
+  color: gray;
+  font-style: italic;
 }
