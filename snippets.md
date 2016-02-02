@@ -4,6 +4,9 @@ Snippets
 [old snippets page](http://antonio.busrod.net/snippets-old.html)
 
 ---
+Display mime file type information `file -Ib foo.txt`
+
+---
 `git checkout --orphan` Create a new orphan branch. The first commit made on
 this new branch will have no parents and it will be the root of a new history
 totally disconnected from all the other branches and commits.
