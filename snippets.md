@@ -4,6 +4,14 @@ Snippets
 [old snippets page](http://antonio.busrod.net/snippets-old.html)
 
 ---
+Useful NPM commands
+
+- [npm outdated](https://docs.npmjs.com/cli/outdated)
+- [npm update](https://docs.npmjs.com/cli/update)
+- [npm dist-tag](https://docs.npmjs.com/cli/dist-tag)
+- [npm pack](https://docs.npmjs.com/cli/pack)
+
+---
 Display mime file type information `file -Ib foo.txt`
 
 ---
