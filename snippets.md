@@ -4,6 +4,22 @@ Snippets
 [old snippets page](http://antonio.busrod.net/snippets-old.html)
 
 ---
+VirtualBox attach external USB
+
+```bash
+VBoxManage list usbhost
+VBoxManage controlvm machine-name usbattach xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+```
+
+---
+mount luks ext4 ubuntu
+
+```
+sudo cryptsetup open /dev/sd?? foo
+sudo cryptsetup close foo
+```
+
+---
 Useful NPM commands
 
 - [npm outdated](https://docs.npmjs.com/cli/outdated)
