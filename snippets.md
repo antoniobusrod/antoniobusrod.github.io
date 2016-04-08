@@ -12,11 +12,17 @@ VBoxManage controlvm machine-name usbattach xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
 ```
 
 ---
-mount luks ext4 ubuntu
+[mount luks ext4 ubuntu](http://askubuntu.com/a/63598)
 
 ```
-sudo cryptsetup open /dev/sd?? foo
-sudo cryptsetup close foo
+# mount
+sudo cryptsetup luksOpen /dev/sd?? my_encrypted_volume
+sudo mkdir /media/my_device
+sudo mount /dev/mapper/my_encrypted_volume /media/my_device
+
+# unmount (lock container)
+sudo umount /media/my_device
+sudo cryptsetup luksClose my_encrypted_volume
 ```
 
 ---
