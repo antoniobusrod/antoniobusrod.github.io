@@ -1,0 +1,23 @@
+{
+  "name": "antoniobusrod.github.io",
+  "version": "1.0.0",
+  "description": "antoniobusrod GitHub page",
+  "scripts": {
+    "build": "pug index.jade"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoniobusrod/antoniobusrod.github.io.git"
+  },
+  "keywords": [],
+  "author": "Antonio Bustos <antoniobusrod@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antoniobusrod/antoniobusrod.github.io/issues"
+  },
+  "homepage": "https://github.com/antoniobusrod/antoniobusrod.github.io#readme",
+  "dependencies": {
+    "jstransformer-markdown-it": "^2.0.0",
+    "pug-cli": "^1.0.0-alpha6"
+  }
+}
