@@ -112,8 +112,15 @@ sudo nmap -n -PN -sT -sU -p- remote_host
 ---
 
 upgrade/install node from `.tar.gz`
-```
+
+```bash
 sudo tar -C /usr/local --strip-components 1 -xzf node-latest.tar.gz
+```
+
+download and upgrade/install node
+
+```bash
+curl https://nodejs.org/download/release/v4.6.2/node-vA.B.C-linux-x64.tar.gz | sudo tar -C /usr/local --strip-components 1 -xz 
 ```
 
 ---
