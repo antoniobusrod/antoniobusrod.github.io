@@ -4,7 +4,6 @@ body {
   padding: 0 5%;
   font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
-
 li {
   margin: 4px 0;
 }
@@ -12,12 +11,17 @@ ul.links {
   list-style-type: none;
   padding-left: 10px;
 }
-.links img {
-  max-width: 13px;
-  max-width: 13px;
+.img-wrapper {
+    width: 13px;
+    height: 0;
+    position: relative;
+}
+.img-wrapper img {
+    width: 100%;
+    position: absolute;
 }
 .links span {
-  margin-left: 3px;
+  margin-left: 16px;
 }
 footer {
   margin-top: 36px;
