@@ -1,7 +1,7 @@
 Snippets
 ========
 
-[old snippets page](http://antonio.busrod.net/snippets-old.html)
+[old snippets page](https://antonio.busrod.net/snippets-old.html)
 
 ---
 VirtualBox attach external USB
