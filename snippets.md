@@ -4,6 +4,21 @@ Snippets
 [old snippets page](https://antonio.busrod.net/snippets-old.html)
 
 ---
+
+Command Line improved
+
+https://remysharp.com/2018/08/23/cli-improved
+
+Ugly     | Fancy
+----     | -----
+`man`    | [`tldr`](https://github.com/tldr-pages/tldr)
+`du`     | `ncdu`
+`diff`   | `diff-so-fancy`
+`ctrl+r` | `fzf`
+`ping`   | `prettyping`
+
+
+---
 VirtualBox attach external USB
 
 ```bash
