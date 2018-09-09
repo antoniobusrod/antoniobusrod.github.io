@@ -5,6 +5,13 @@ Snippets
 
 ---
 
+Coming soon, dotfiles
+
+[spaceship](https://github.com/denysdovhan/spaceship-prompt), A Zsh prompt for Astronauts
+
+
+---
+
 Command Line improved
 
 https://remysharp.com/2018/08/23/cli-improved
