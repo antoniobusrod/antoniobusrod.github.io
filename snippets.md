@@ -1,6 +1,15 @@
 Snippets
 ========
 
+Reduce PDF quality with `Ghostscript`
+
+```sh
+gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -sOutputFile=/tmp/output.pdf input.pdf
+```
+
+---
+
+
 [old snippets page](https://antonio.busrod.net/snippets-old.html)
 
 ---
