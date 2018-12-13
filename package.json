@@ -1,6 +1,6 @@
 {
   "name": "antoniobusrod.github.io",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "antoniobusrod GitHub page",
   "scripts": {
     "build": "pug index.jade"
