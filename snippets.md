@@ -1,7 +1,12 @@
 Snippets
 ========
 
-Reduce PDF quality with `Ghostscript`
+## Cool unix commands
+
+- `timeout`: Run a command with a time limit.
+- `leave`: Remind when it's time to leave.
+
+## Reduce PDF quality with `Ghostscript`
 
 ```sh
 gs -dNOPAUSE -dBATCH -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -sOutputFile=/tmp/output.pdf input.pdf
