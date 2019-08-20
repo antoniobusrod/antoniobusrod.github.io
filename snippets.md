@@ -1,6 +1,25 @@
 Snippets
 ========
 
+## Show last wake for Mac OS X
+
+Check last line and it is timestamp.
+
+```sh
+pmset -g log | grep -e " Sleep  " -e " Wake  " | tail -n 5
+```
+
+Example
+
+```sh
+➜ pmset -g log|grep -e " Sleep  " -e " Wake  " | tail -n 5
+2019-08-20 02:14:10 +0200 Sleep               	Entering Sleep state due to 'Maintenance Sleep':TCPKeepAlive=active Using AC (Charge:100%) 7206 secs
+2019-08-20 04:15:01 +0200 Sleep               	Entering Sleep state due to 'Maintenance Sleep':TCPKeepAlive=active Using AC (Charge:100%) 7207 secs
+2019-08-20 06:15:53 +0200 Sleep               	Entering Sleep state due to 'Maintenance Sleep':TCPKeepAlive=active Using AC (Charge:100%) 7207 secs
+2019-08-20 08:16:45 +0200 Sleep               	Entering Sleep state due to 'Maintenance Sleep':TCPKeepAlive=active Using AC (Charge:100%) 3268 secs
+2019-08-20 09:11:13 +0200 Wake                	Wake from Normal Sleep [CDNVA] due to XHC1/HID Activity: Using AC (Charge:100%)
+```
+
 ## Cool unix commands
 
 - `timeout`: Run a command with a time limit.
