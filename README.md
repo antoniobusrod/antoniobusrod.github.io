@@ -1,27 +1,21 @@
 # antoniobusrod.github.io
 
-`index.html` contains portfolio content from `index.jade` and `styles.css`.
-`favicon.ico` is used too.
+Antonio Bustos' portfolio content hosted with GitHub Pages.
 
-`snippets.md` contains recent snippets. `snippets-old.html` contains previous
-snippets from last website.
+## Requirements
 
-`keybase.txt` is [Keybase](https://keybase.io/) proof of my identity there.
+1. [Pandoc](https://pandoc.org/)
 
-`CNAME` contains resource records related with current GitHub pages repository.
-
-## Installation
-
-```bash
-npm install
-```
 
 ## Build
 
-Compile `index.jade` with `snippets.md` content to `index.html`. `styles.css`
-is used too.
+Use `build` Makefile recipe to generate `index.html` content.
 
-```bash
-npm build
-```
+    make build
 
+## Structure
+
+* `index.html` contains portfolio content built from `index.md` and `styles.css` using .
+* `snippets.md` contains recent snippets. `snippets-old.html` contains previous snippets from last website.
+* `keybase.txt` is [Keybase](https://keybase.io/) proof of my identity there.
+* `CNAME` contains resource records related with current GitHub pages repository.
