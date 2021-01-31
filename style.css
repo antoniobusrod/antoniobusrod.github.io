@@ -1,36 +1,71 @@
+code {
+    white-space: pre-wrap;
+}
+
+span.smallcaps {
+    font-variant: small-caps;
+}
+
+span.underline {
+    text-decoration: underline;
+}
+
+div.column {
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+}
+
+div.hanging-indent {
+    margin-left: 1.5em;
+    text-indent: -1.5em;
+}
+
+ul.task-list {
+    list-style: none;
+}
+
 body {
-  max-width: 700px;
-  margin: 0 auto;
-  padding: 0 5%;
-  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 0 5%;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
 li {
-  margin: 4px 0;
+    margin: 4px 0;
 }
+
 ul.links-with-images {
-  list-style-type: none;
-  padding-left: 10px;
+    list-style-type: none;
+    padding-left: 10px;
 }
+
 .img-wrapper {
-  display: none;
+    display: none;
 }
+
 .allocate-image {
     display: flex;
     height: 0;
     position: relative;
     width: 13px;
 }
+
 .img-wrapper.allocate-image img {
     width: 100%;
     position: absolute;
 }
+
 .links-with-images span {
-  margin-left: 16px;
+    margin-left: 16px;
 }
+
 footer {
-  margin-top: 36px;
+    margin-top: 36px;
 }
+
 footer blockquote {
-  color: gray;
-  font-style: italic;
+    color: gray;
+    font-style: italic;
 }
