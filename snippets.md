@@ -1,6 +1,13 @@
 Snippets
 ========
 
+## vscode: Auto switch Theme based on OS color scheme
+
+`window.autoDetectColorScheme`
+
+https://apple.stackexchange.com/a/381963
+
+
 ## Show last wake for Mac OS X
 
 Check last line and it is timestamp.
