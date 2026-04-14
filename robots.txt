@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://antonio.busrod.net/sitemap.xml
